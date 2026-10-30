@@ -26,8 +26,6 @@ and CI/CD with GitHub Actions and Databricks Asset Bundles.
 - [**dbt-databricks-lakehouse**](https://github.com/Faiz-Kounain/dbt-databricks-lakehouse): Bronze/Silver/Gold dbt models, tests, snapshots, CI/CD with Asset Bundles
 
 ### Currently
-
-- Learning: AWS data services hands-on, Airflow
 - Open to: Data Engineer / Data & AI Engineer roles
 
 ### Connect
